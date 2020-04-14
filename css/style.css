@@ -1,0 +1,129 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #4494a6;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #4494a6;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #916dd5;
+}
+
+h4 {
+  color: #4494a6;
+}
+
+p{
+color: #40514E;
+font-weight: 600;
+line-height: 2;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 7px;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.top-container {
+  background-color: #f0e3ff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.clouds-right {
+  height: 150px;
+  width: 300px;
+  position: absolute;
+  right: 100px;
+}
+
+.clouds-left {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  left: 100px;
+  top: 20px;
+}
+
+.landscape {
+  height: 300px;
+  width: 100%;
+  opacity: 70%;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.dp {
+  height: 200px;
+  border-radius: 150px;
+  box-shadow: 0 0 13px 6px #363062;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 80px auto;
+  text-align: left;
+}
+
+.tech {
+  width: 25%;
+  float: left;
+  margin-right: 60px;
+}
+
+.nontech {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.logo {
+  height: 40px;
+  padding: 5px;
+}
+
+.emaillogo{
+  height:70px;
+}
+
+.bottom-container {
+  background-color: #4494a6;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.contact-me p{
+  width:40%;
+  margin:40px auto 60px;
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
